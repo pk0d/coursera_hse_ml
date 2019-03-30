@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>de180544-524c-457c-978e-24a16f4a362f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>coursera_hse_ml_week2_1.py</StartupFile>
+    <StartupFile>coursera_hse_ml_week2_2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
